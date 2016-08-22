@@ -2,7 +2,7 @@
 
 NYU course 2016 Spring 2016 Assignment 2
 
-This set of code is modified from Sergey Zagoruyko's cifar.torch tutorial: [cifar.torch](https://github.com/szagoruyko/cifar.torch/blob/master/README.md).
+stl-10 image classification with CNN, K-Means pretraining and data augmentation. This set of code is modified from Sergey Zagoruyko's cifar.torch tutorial: [cifar.torch](https://github.com/szagoruyko/cifar.torch/blob/master/README.md).
 
 Data processing:
 
